@@ -81,7 +81,7 @@ In Claude Code:
 ```
 "What do I have scheduled for today?"
 "Create a task to follow up with Alex about the project"
-"Move all my SADP tasks to Wednesday"
+"Move all my Partner tasks to Wednesday"
 "What tasks mention budget?"
 ```
 
