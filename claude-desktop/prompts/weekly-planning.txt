@@ -1,0 +1,30 @@
+Help me plan my week. Here's my current task list:
+
+[PASTE YOUR TASK LIST HERE - from Things 3, Todoist, etc.]
+
+My focus areas by day:
+- Monday: [Your Monday focus]
+- Tuesday: [Your Tuesday focus]
+- Wednesday: [Your Wednesday focus]
+- Thursday: [Your Thursday focus]
+- Friday: [Your Friday focus]
+
+My 1:1s this week (if applicable):
+- [Day]: [Names]
+
+Please:
+
+1. **Check Alignment** - Are tasks scheduled on days that match their focus area? Flag any misaligned tasks with suggested moves.
+
+2. **Identify Overload** - Any day with too many tasks? Suggest what to defer.
+
+3. **1:1 Prep Tasks** - Do I have prep tasks for each upcoming 1:1? If not, suggest adding them the day before.
+
+4. **Deadlines** - Highlight any hard deadlines this week.
+
+5. **Generate Week View** - Show me a clean day-by-day breakdown:
+   - Day and focus area
+   - Tasks for that day
+   - Any flags (overload, missing prep, etc.)
+
+Keep the output actionable - I want to know what to move and what to watch for.

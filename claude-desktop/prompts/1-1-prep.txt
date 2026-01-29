@@ -1,0 +1,21 @@
+I have a 1:1 coming up with [NAME]. Help me prepare.
+
+Here are my notes from our last few 1:1s:
+[PASTE LAST 1-2 1:1 NOTES HERE]
+
+Please create a prep brief with:
+
+1. **What I Owe Them** (FIRST) - Action items I committed to. Did I complete them?
+
+2. **What They Owe** - Action items they committed to. Items to follow up on.
+
+3. **Parked Topics** - Things we said we'd discuss "next time"
+
+4. **Their Current State** - Based on the notes:
+   - Current workload/capacity
+   - Active projects
+   - Recent wins or blockers
+
+5. **Flags** (if any) - Patterns, overdue items, development areas to weave in
+
+Keep the format clean and scannable. I'll reference this during our meeting.
