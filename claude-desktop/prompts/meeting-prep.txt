@@ -1,0 +1,29 @@
+I have a meeting coming up with [NAME(S)]. Help me prepare.
+
+About this person/these people:
+- [Name]: [Their role, what we typically discuss]
+
+Here's context from our last meeting (if available):
+[PASTE PREVIOUS MEETING NOTES IF YOU HAVE THEM]
+
+Current topics I'm tracking related to them:
+[PASTE ANY RELEVANT PROJECT UPDATES, NOTES, OR CONTEXT]
+
+Please create a prep brief with:
+
+1. **From Last Time** - Key decisions, open items from previous meeting
+
+2. **What I Need From Them** - My agenda:
+   - Decisions I need
+   - Questions to ask
+   - Updates to request
+
+3. **What They'll Want From Me** - Anticipate their questions:
+   - Updates they'll ask about
+   - Decisions they might push for
+
+4. **Current Context** - Relevant background for this meeting
+
+5. **Watch For** - Any sensitivities, politics, or land mines
+
+Balance my needs with theirs - I don't want to be caught off guard.

@@ -1,0 +1,23 @@
+I need a status summary for [PROJECT/PARTNER NAME].
+
+Here's the recent context I have:
+[PASTE RECENT MEETING NOTES, UPDATES, OR DOCUMENTS]
+
+Depth needed: [CHOOSE ONE]
+- Quick: Just blockers and current phase (30-second summary)
+- Standard: Blockers, recent activity, next steps (meeting prep)
+- Detailed: Full report with people, docs, timeline
+
+Please generate a status summary with:
+
+1. **Blockers/Risks FIRST** - What's in the way? What might go wrong?
+
+2. **Current State** - Phase, priority, last activity
+
+3. **Recent Activity** - What's happened lately (from the context I provided)
+
+4. **Next Steps** - What needs to happen next
+
+5. **Open Items** (if detailed) - Tasks or decisions pending
+
+Put blockers first - I want to lead with issues, not bury them.
